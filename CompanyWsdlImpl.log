@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2018-06-27T11:23:16</date>
+  <millis>1530087796608</millis>
+  <sequence>1</sequence>
+  <logger>CompanyWsdlImpl</logger>
+  <level>INFO</level>
+  <class>wsdl.CompanyWsdlImpl</class>
+  <method>getDepartments</method>
+  <thread>1</thread>
+  <message>Getting Departments.</message>
+</record>
+<record>
+  <date>2018-06-27T11:23:19</date>
+  <millis>1530087799042</millis>
+  <sequence>2</sequence>
+  <logger>CompanyWsdlImpl</logger>
+  <level>INFO</level>
+  <class>wsdl.CompanyWsdlImpl</class>
+  <method>getStaff</method>
+  <thread>1</thread>
+  <message>Getting Staff.</message>
+</record>
+<record>
+  <date>2018-06-27T11:23:20</date>
+  <millis>1530087800945</millis>
+  <sequence>3</sequence>
+  <logger>CompanyWsdlImpl</logger>
+  <level>INFO</level>
+  <class>wsdl.CompanyWsdlImpl</class>
+  <method>getStaff</method>
+  <thread>1</thread>
+  <message>Getting Staff.</message>
+</record>
+<record>
+  <date>2018-06-27T11:23:23</date>
+  <millis>1530087803364</millis>
+  <sequence>4</sequence>
+  <logger>CompanyWsdlImpl</logger>
+  <level>INFO</level>
+  <class>wsdl.CompanyWsdlImpl</class>
+  <method>getStaff</method>
+  <thread>1</thread>
+  <message>Getting Staff.</message>
+</record>
+<record>
+  <date>2018-06-27T11:23:27</date>
+  <millis>1530087807020</millis>
+  <sequence>5</sequence>
+  <logger>CompanyWsdlImpl</logger>
+  <level>INFO</level>
+  <class>wsdl.CompanyWsdlImpl</class>
+  <method>getStaff</method>
+  <thread>1</thread>
+  <message>Getting Staff.</message>
+</record>
+</log>

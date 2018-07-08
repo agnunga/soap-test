@@ -1,0 +1,71 @@
+FirstName,LastName,Unit,Course,Gender,Age,Grade
+Dennis,Dustin,Accounting,Bcom,Male,18,8
+Gavin,Cruz,Accounting,Bcom,Female,30,8
+Fleur,Thomas,Calculus,Acturial,Male,19,9
+Kane,Seth,Calculus,BBIT,Other,20,6
+Olympia,Barrett,Calculus,Acturial,Female,20,3
+Geraldine,Honorato,Calculus,Bcom,Male,21,7
+Jesse,Stuart,Calculus,Computer Science,Male,22,3
+Knox,Mark,Calculus,Computer Science,Male,24,4
+Mannix,Christopher,Calculus,Computer Science,Male,26,8
+Hayley,Mannix,Calculus,Bcom,Male,29,10
+Darryl,Marshall,Communication,BBIT,Male,18,8
+Naomi,Stewart,Communication,Computer Science,Female,18,2
+Charity,Wade,Communication,Acturial,Male,22,12
+Tallulah,Avram,Communication,Acturial,Other,22,8
+Bell,Oscar,Communication,Computer Science,Male,24,10
+Jennifer,Derek,Communication,Bcom,Other,26,12
+Whilemina,Leo,Communication,BBIT,Female,28,9
+Nyssa,Jasper,Communication,Computer Science,Female,29,12
+Castor,Gavin,Communication,Acturial,Male,30,1
+Hanae,Francis,Communication,Computer Science,Male,30,9
+Rahim,Jordan,English,BBIT,Other,25,1
+Fleur,Thomas,English,BBIT,Female,27,12
+Chloe,Dalton,Enterpreneurship,BBIT,Other,29,3
+Lucius,Hiram,Enterpreneurship,BBIT,Female,30,2
+Olga,Raphael,HIV,Computer Science,Other,19,7
+Olympia,Barrett,HIV,Computer Science,Male,19,5
+Stuart,Dennis,HIV,Acturial,Other,19,2
+Stuart,Dennis,HIV,BBIT,Male,19,9
+Jescie,Scott,HIV,Bcom,Other,22,1
+Shannon,Victor,HIV,Computer Science,Other,24,6
+Bernard,Tanek,HIV,Acturial,Male,25,9
+Darryl,Marshall,HIV,Acturial,Female,27,2
+Clarke,Chancellor,HIV,Computer Science,Female,28,3
+Sawyer,Yardley,HIV,BBIT,Male,28,3
+Sawyer,Yardley,Intro to Computers,Bcom,Female,22,2
+Tallulah,Avram,Intro to Computers,BBIT,Female,24,7
+Chloe,Dalton,Intro to Computers,Acturial,Other,26,3
+Clarke,Chancellor,Intro to Computers,Acturial,Female,26,3
+Olympia,Barrett,Intro to Computers,Bcom,Female,27,5
+Sawyer,Yardley,Intro to Computers,Computer Science,Female,27,5
+Sawyer,Yardley,Intro to Computers,Computer Science,Female,30,3
+Whilemina,Leo,Intro to Computers,Acturial,Male,30,1
+Chloe,Dalton,Math101,BBIT,Other,18,12
+Chloe,Dalton,Math101,Bcom,Female,18,7
+Tallulah,Avram,Math101,Computer Science,Other,20,6
+Tallulah,Avram,Math101,Bcom,Female,22,3
+Chloe,Dalton,Math101,Acturial,Female,26,3
+Olympia,Barrett,Math101,Acturial,Other,28,3
+Chloe,Dalton,Math101,Computer Science,Female,29,5
+Carly,Zeph,Math102,Acturial,Male,26,5
+Stuart,Dennis,Math202,Bcom,Other,20,9
+Whilemina,Leo,Math202,Bcom,Male,20,3
+Darryl,Marshall,Math202,Bcom,Other,28,12
+Sawyer,Yardley,Math303,Acturial,Male,19,2
+Darryl,Marshall,Math303,Acturial,Male,27,9
+Kane,Seth,Math304,Acturial,Other,21,6
+Darryl,Marshall,Networking,BBIT,Male,21,4
+Stuart,Dennis,Networking,BBIT,Female,27,12
+Olympia,Barrett,OS,BBIT,Male,21,6
+Whilemina,Leo,OS,BBIT,Female,22,12
+Abraham,Abbot,Probability & Statistics,Acturial,Female,21,1
+Darryl,Marshall,Probability & Statistics,Computer Science,Female,23,1
+Stuart,Dennis,Probability & Statistics,Computer Science,Female,27,8
+Whilemina,Leo,Probability & Statistics,Computer Science,Other,27,3
+Tallulah,Avram,Probability & Statistics,Acturial,Male,28,3
+Olga,Raphael,Probability & Statistics,Acturial,Male,30,8
+Sawyer,Yardley,Probability & Statistics,Acturial,Male,31,2
+Stuart,Dennis,Programming,Computer Science,Other,22,6
+Darryl,Marshall,Programming,Computer Science,Female,26,3
+Chloe,Dalton,Programming,Computer Science,Female,29,5
